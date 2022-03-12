@@ -71,7 +71,7 @@ nav {
       }
   
       .section1{
-        background-image: url("/steven-van-loy-oUhSla4L_98-unsplash1.jpg");
+        background-image: url("steven-van-loy-oUhSla4L_98-unsplash1.jpg");
         background-size: cover;
         height: 700px;
         width: auto;
@@ -143,7 +143,7 @@ nav {
   
   
   .section3{
-      background-image: url("/rafting1.jpg");
+      background-image: url("afting1.jpg");
       background-size: cover;
       height: 750px;
       width: auto;
@@ -201,7 +201,7 @@ nav {
   
   
   .gender{
-      background-image: url("/beach1.jpg");
+      background-image: url("beach1.jpg");
       background-size: cover;
       height: 1000px;
       width: auto;
@@ -256,7 +256,7 @@ nav {
   
   
   .clientReview{
-      background-image: url("/beach21.jpg");
+      background-image: url("beach21.jpg");
       background-size: cover;
       height: 700px;
       width: auto;
